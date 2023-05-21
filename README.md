@@ -2,4 +2,4 @@
 
 * comando push - ok
 * comando pull - ok
-* comando fetch
+* comando fetch - ok
