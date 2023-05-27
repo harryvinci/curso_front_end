@@ -20,6 +20,6 @@ for (let indice in arr){ //percorre os indices do valor
     console.log(indice);
 }
 
-for (let indice in arr){ 
+for (let indice in arr){ //percorre os indices do valor
     console.log(indice, arr[indice]);
 }
